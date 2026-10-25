@@ -2,7 +2,7 @@
 
 Reference implementation with synthetic data, not production code.
 
-- Node.js 22 LTS, React 18.3.1, Vite 5.4.11, Vitest 2.1.8 + React Testing Library 16.1.0
+- Node.js 24.22.1 LTS (engines: >=22), React 18.3.1, React Router 6.30.6, Vite 5.4.21, Vitest 2.1.9 + React Testing Library 16.1.0
 
 ```powershell
 npm install
