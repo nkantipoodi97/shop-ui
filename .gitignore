@@ -1,0 +1,5 @@
+*.db
+logs/app.log
+.lld-run/
+node_modules/
+dist/
